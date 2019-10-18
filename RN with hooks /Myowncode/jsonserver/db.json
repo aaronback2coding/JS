@@ -1,0 +1,9 @@
+{
+    "blogposts": [
+        {
+            "id": 123,
+            "title": "remote test post 1",
+            "content": "remote test content"
+        }
+    ]
+}
